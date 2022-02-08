@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.home.manager
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, aws-v2-sdk, http-client, jackson-databind, jms-sqs, junit, kotlin, kotlin-application, logback, maven, netty-server, readme, shade, yaml]
